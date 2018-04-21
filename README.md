@@ -1,5 +1,4 @@
-# Private Cocoapods Developer repository for AcquireIO
-
+![AcquireIO](https://developers.acquire.io/media/data/acquire-logo.png)
 
 [![CocoaPods](https://img.shields.io/badge/platforms-iOS-orange.svg?maxAge=2592000)](https://cocoapods.org/pods/AcquireIO)
 [![Languages](https://img.shields.io/badge/languages-OjbC%20%7C%20%20Swift-orange.svg?maxAge=2592000)](https://github.com/acquireio/CocoaPods)
