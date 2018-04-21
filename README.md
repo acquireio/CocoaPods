@@ -58,7 +58,7 @@ Remember to write your description why you ask for this authorization, between  
 ```
 
 ## Example app
-There is an example app provided [here](https://github.com/intercom/intercom-ios/tree/master/Examples) for both Objective-C and Swift.
+There is an example app provided [here](https://github.com/acquireio/acquireio-ios/tree/master/Examples) for both Objective-C and Swift.
 
 ## Setup and Configuration
 
