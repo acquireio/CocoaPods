@@ -27,15 +27,6 @@ Add the AcquireIO pod into your Podfile and run `pod install`.
       pod 'AcquireIO'
     end
     
-    
-For xcode 8 or later:
-
-1. Go to Project/Targets -> [Project Name] -> Build Settings.
-2. search "ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES"
-3. click the right of Debug, and selected 'Other', input "$(inherited)"
-4. do same with 'Release' and install your pod
-
-
 Note: Since iOS 10, it's mandatory to add before you access privacy-sensitive data like Camera, Microphone, and so on, you must ask for the authorization, or your app will crash when you access them.
 
 Open the file in your project named `info.plist`, right click it, opening as Source Code, paste this code below to it. Or you can open  `info.plist` as `Property List` by default, click the add button, Xcode will give you the suggest completions while typing Privacy - with the help of keyboard and 
