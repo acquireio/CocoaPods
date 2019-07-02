@@ -60,7 +60,7 @@ There is an example app provided [here](https://github.com/acquireio/acquireio-i
 
 ## What about events, push notifications, company and user data?
 
-AcquireIO for iOS has support for all these things. For full details please read our [documentation](https://developers.acquire.io/sdk-congifuration-example).
+AcquireIO for iOS has support for all these things. For full details please read our [documentation](https://developer.acquire.io/ios/sdk-configuration-example).
 
 
 ## License
