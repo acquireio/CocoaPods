@@ -52,9 +52,9 @@ There is an example app provided [here](https://github.com/acquireio/acquireio-i
 
 ## Setup and Configuration
 
-* Our [installation guide](https://developers.acquire.io/getting-start-ios) contains full setup and initialisation instructions.
-* Read ["Configuring AcquireIO for iOS"](https://developers.acquire.io/sdk-congifuration-example).
-* Read our guide on [Push Notifications](https://developers.acquire.io/ios-push-notifications).
+* Our [installation guide](https://developer.acquire.io/ios/sdk-setup-guide/getting-started) contains full setup and initialisation instructions.
+* Read ["Configuring AcquireIO for iOS"](https://developer.acquire.io/ios/sdk-configuration-example).
+* Read our guide on [Push Notifications](https://developer.acquire.io/ios/ios-push-notifications).
 * Please contact us on [AcquireIO](https://acquire.io) with any questions you may have, we're only a message away!
 
 
